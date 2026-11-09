@@ -7,5 +7,4 @@ print('Tom said "I have always liked to hear \'I am the best\' as often as possi
 #6.
 import datetime
 time = datetime.datetime.now()
-print("The local time is:")
-print(time)
+print("The local time is:", time)
